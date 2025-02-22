@@ -1,4 +1,4 @@
-module github.com/rlmckenney/cst8918-w24-h06-tslint
+module github.com/sburul/cst8918-w24-h06-tslint
 
 go 1.22.0
 
